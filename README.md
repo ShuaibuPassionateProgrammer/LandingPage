@@ -60,3 +60,4 @@ techsolutions-landing/
 └── assets/
     └── banner.png (optional - replace with your own)
 ```
+
