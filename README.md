@@ -40,3 +40,8 @@ cd techsolutions-landing
 
 
 ### Then simply open index.html in your browser:
+```bash
+open index.html
+# OR
+start index.html  # Windows
+```
