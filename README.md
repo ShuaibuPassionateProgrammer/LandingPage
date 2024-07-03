@@ -54,3 +54,9 @@ start index.html  # Windows
 </ul>
 
 ### 📁 Project Structure
+```bash
+techsolutions-landing/
+├── index.html
+└── assets/
+    └── banner.png (optional - replace with your own)
+```
