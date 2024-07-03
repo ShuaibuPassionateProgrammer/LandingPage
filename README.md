@@ -45,3 +45,10 @@ open index.html
 # OR
 start index.html  # Windows
 ```
+
+### 🧰 Technologies Used
+HTML5
+
+CSS3
+
+Google Fonts (Poppins)
