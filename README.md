@@ -22,5 +22,6 @@ Getting started with the TechSolutions Landing Page is straightforward:
 
 ```bash
 git clone [https://github.com/yourrepo/techsolutions-landing.git](https://github.com/ShuaibuPassionateProgrammer/LandingPage.git)
-cd techsolutions-landing
+cd LandingPage
 ```
+
