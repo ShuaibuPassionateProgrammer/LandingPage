@@ -50,6 +50,5 @@ start index.html  # Windows
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
-
-Google Fonts (Poppins)
+<li>Google Fonts (Poppins)</li>
 </ul>
