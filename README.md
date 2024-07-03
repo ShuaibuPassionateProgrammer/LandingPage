@@ -52,3 +52,5 @@ start index.html  # Windows
     <li>CSS3</li>
     <li>Google Fonts (Poppins)</li>
 </ul>
+
+### 📁 Project Structure
