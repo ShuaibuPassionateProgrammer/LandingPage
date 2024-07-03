@@ -37,3 +37,6 @@ Clone this repository to your local environment:
 ```bash
 git clone https://github.com/yourrepo/techsolutions-landing.git
 cd techsolutions-landing
+
+
+### Then simply open index.html in your browser:
