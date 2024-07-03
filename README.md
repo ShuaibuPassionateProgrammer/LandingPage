@@ -48,7 +48,7 @@ start index.html  # Windows
 
 ### 🧰 Technologies Used
 <ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>Google Fonts (Poppins)</li>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Google Fonts (Poppins)</li>
 </ul>
