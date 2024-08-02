@@ -104,34 +104,34 @@ a:hover {
 }
 
 /* Hero Section */
-        .hero {
-            padding: 8rem 0;
-            text-align: center;
-            background: linear-gradient(135deg, rgba(0, 123, 255, 0.1) 0%, rgba(255, 255, 255, 0.7) 100%);
-            position: relative;
-            overflow: hidden;
-        }
+.hero {
+    padding: 8rem 0;
+    text-align: center;
+    background: linear-gradient(135deg, rgba(0, 123, 255, 0.1) 0%, rgba(255, 255, 255, 0.7) 100%);
+    position: relative;
+    overflow: hidden;
+}
 
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: -50px;
-            left: -50px;
-            width: 200px;
-            height: 200px;
-            background: radial-gradient(circle, rgba(0, 123, 255, 0.15) 0%, transparent 70%);
-            border-radius: 50%;
-            animation: moveShape1 15s infinite alternate ease-in-out;
-        }
+.hero::before {
+    content: '';
+    position: absolute;
+    top: -50px;
+    left: -50px;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgba(0, 123, 255, 0.15) 0%, transparent 70%);
+    border-radius: 50%;
+    animation: moveShape1 15s infinite alternate ease-in-out;
+}
 
-        .hero::after {
-            content: '';
-            position: absolute;
-            bottom: -70px;
-            right: -70px;
-            width: 250px;
-            height: 250px;
-            background: radial-gradient(circle, rgba(40, 167, 69, 0.1) 0%, transparent 70%);
-            border-radius: 50%;
-            animation: moveShape2 20s infinite alternate ease-in-out;
-        }
+.hero::after {
+    content: '';
+    position: absolute;
+    bottom: -70px;
+    right: -70px;
+    width: 250px;
+    height: 250px;
+    background: radial-gradient(circle, rgba(40, 167, 69, 0.1) 0%, transparent 70%);
+    border-radius: 50%;
+    animation: moveShape2 20s infinite alternate ease-in-out;
+}
