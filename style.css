@@ -331,14 +331,14 @@ a:hover {
 }
 
 /* Responsive Adjustments */
-        @media (max-width: 992px) {
-            h1 {
-                font-size: 2.8rem;
-            }
-            h2 {
-                font-size: 2.2rem;
-            }
-            .hero {
-                padding: 6rem 0;
-            }
-        }
+@media (max-width: 992px) {
+    h1 {
+        font-size: 2.8rem;
+    }
+    h2 {
+        font-size: 2.2rem;
+    }
+    .hero {
+        padding: 6rem 0;
+    }
+}
