@@ -1,3 +1,3 @@
 // Update current year in footer
-        document.getElementById('currentYear').textContent = new Date().getFullYear();
+document.getElementById('currentYear').textContent = new Date().getFullYear();
     
