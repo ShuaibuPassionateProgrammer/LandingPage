@@ -36,5 +36,5 @@ A sleek, responsive landing page template tailored for tech companies, software 
 To get started, clone the repository and open the HTML file locally:
 
 ```bash
-git [clone https://github.com/yourrepo/techsolutions-landing.git](https://github.com/ShuaibuPassionateProgrammer/LandingPage)
+git [clone [https://github.com/ShuaibuPassionateProgrammer/LandingPage.git](https://github.com/ShuaibuPassionateProgrammer/LandingPage)
 cd techsolutions-landing
