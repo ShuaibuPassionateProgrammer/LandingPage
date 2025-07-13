@@ -1,4 +1,4 @@
-# TechSolutions Landing Page
+           # TechSolutions Landing Page
 
 ![Project Banner](./assets/banner.png)
 
@@ -21,6 +21,6 @@ A sleek, modern landing page template meticulously crafted for technology soluti
 Getting started with the TechSolutions Landing Page is straightforward:
 
 ```bash
-git clone [https://github.com/yourrepo/techsolutions-landing.git](https://github.com/ShuaibuPassionateProgrammer/LandingPage.git)
+git clone [](https://github.com/ShuaibuPassionateProgrammer/LandingPage.git)
 cd LandingPage
 ```
